@@ -47,4 +47,4 @@ Generating color histogram for red, green, blue in pixels we get their frequenci
 > conditionalProbability.py : Generates a joint histogram between two color channels to see dependant probabilities of a color given that the other color has acertain intensity.
 
 ## Documentation
-For more details and results please visit the [documentation](https://github.com/shahdelrefai/stable_diffusion/blob/main/Stable%20Diffusion.pdf).
+For more details and results please visit the [documentation](https://github.com/ahmadabbadi101/Stable-Diffusion/blob/main/Stable%20Diffusion.pdf).
