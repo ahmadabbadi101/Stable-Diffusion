@@ -48,3 +48,7 @@ Generating color histogram for red, green, blue in pixels we get their frequenci
 
 ## Documentation
 For more details and results please visit the [documentation](https://github.com/ahmadabbadi101/Stable-Diffusion/blob/main/Stable%20Diffusion.pdf).
+
+## Contributors
+
+> [Shahd El-Refai](github.com/shahdelrefai)
